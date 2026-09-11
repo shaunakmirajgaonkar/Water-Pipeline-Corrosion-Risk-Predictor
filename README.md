@@ -1,1 +1,14 @@
-# 🧪 Water-Pipeline Corrosion Risk Predictor\n\nAdvanced 100% local-first Streamlit dashboard for screening potential water-pipeline corrosion and leakage risk.\n\n## Run\n```bash\npython3 -m venv .venv\nsource .venv/bin/activate\npython -m pip install --upgrade pip\npip install -r requirements.txt\nstreamlit run app.py\n```\n\nNo external APIs are required. Sample data is synthetic.\n
+# 🧪 Water-Pipeline Corrosion Risk Predictor
+
+Advanced 100% local-first Streamlit dashboard for screening potential water-pipeline corrosion and leakage risk.
+
+## Run
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+No external APIs are required. Sample data is synthetic.
