@@ -1,0 +1,1 @@
+# CSV Schema\n\nRequired columns are documented by the header of `data/sample_pipeline_corrosion_records.csv`.\n

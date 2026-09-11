@@ -1,0 +1,1 @@
+# Contributing\n\nTest changes locally, preserve local-first processing, update documentation, and submit focused improvements.\n

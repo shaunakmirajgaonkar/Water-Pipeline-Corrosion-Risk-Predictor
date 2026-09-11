@@ -1,0 +1,1 @@
+# Changelog\n\n## 1.0.0\n- Advanced local-first corrosion-risk dashboard.\n- Added maps, analytics, alerts, benchmarking and What-If simulation.\n- Added CSV validation/export and synthetic records.\n

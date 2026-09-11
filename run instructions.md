@@ -1,0 +1,1 @@
+# Run Instructions\n\n```bash\ncd Water_Pipeline_Corrosion_Risk_Predictor\npython3 -m venv .venv\nsource .venv/bin/activate\npython -m pip install --upgrade pip\npip install -r requirements.txt\nstreamlit run app.py\n```\n

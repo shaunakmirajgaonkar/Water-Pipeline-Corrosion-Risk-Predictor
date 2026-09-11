@@ -1,0 +1,1 @@
+# Security Policy\n\nNo external credentials are required. Avoid uploading unnecessary sensitive data. Risk outputs are screening signals, not engineering certification.\n
